@@ -34,7 +34,6 @@ Detail-oriented Machine Learning Developer with over 3 years of experience in de
 
 ## Core Competencies
 ### Skills Overview
-![Core Competencies](https://via.placeholder.com/600x300?text=Core+Competencies+Chart)
 
 - Machine Learning Development
 - Generative AI
@@ -52,8 +51,6 @@ Detail-oriented Machine Learning Developer with over 3 years of experience in de
 - Microsoft Certified: Fabric Analytics Engineer Associate
 
 ## Soft Skills
-### Skills Gauge
-![Soft Skills Gauge](https://via.placeholder.com/600x300?text=Soft+Skills+Gauge)
 
 | Skill              | Proficiency Level |
 |--------------------|-------------------|
@@ -88,4 +85,20 @@ Developed a document question-answering application utilizing LangChain and Open
 Automated machine learning operations achieving a 45% enhancement in efficiency.
 
 ### Call Volume Forecast Using Time Series Forecasting
-**Technologies Used:** Python, AR
+**Technologies Used:** Python, ARIMA  
+Designed models for forecasting call volume with automated hyper-parameter tuning.
+
+### Performance Review Classification and Summarizing
+**Technologies Used:** Python, Flask  
+Utilized advanced NLP techniques to analyze user reviews employing transformer models for effective text summarization.
+
+## Personal Details
+| Field             | Details          |
+|-------------------|------------------|
+| **Address**       | Pune, India      |
+| **Date of Birth** | June 5, 1998     |
+| **Languages Known** | English, Hindi   |
+
+---
+
+This README provides an overview of my professional background and projects. For more details or collaboration inquiries, please feel free to reach out!
