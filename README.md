@@ -1,18 +1,16 @@
 # Prateek's Resume
 
 ## Profile Summary
-Detail-oriented Machine Learning Developer with over 3 years of experience in designing, developing, and deploying end-to-end machine learning operations. Proficient in scalable data pipelines and real-time insights, with expertise in Python, SQL, and various technologies.
+Detail-oriented Machine Learning Developer with over 3 years of experience in designing, developing, and deploying end-to-end machine learning operations, showcasing proficiency in scalable data pipelines and real-time insights. Proficient in utilizing Python, SQL, and a range of technologies and frameworks including Flask, with hands-on experience in agile methodologies, ensuring effective project management and iterative development.
 
 ## Contact Information
-| Field         | Details                                |
-|---------------|----------------------------------------|
-| **Phone**     | +91 8827576558                        |
-| **Email**     | singhprateek692@gmail.com             |
-| **LinkedIn**  | [Prateek's LinkedIn](https://www.linkedin.com/in/prateek_linkedin) |
-| **GitHub**    | [Prateek's GitHub](https://github.com/Prateek_github) |
+- **Phone:** +91 8827576558
+- **Email:** singhprateek692@gmail.com
+- **LinkedIn:** [Prateek's LinkedIn](https://www.linkedin.com/in/prateek_linkedin)
+- **GitHub:** [Prateek's GitHub](https://github.com/Prateek_github)
 
 ## Education
-- **B.Tech. (Computer Science)**  
+- **Bachelor of Technology in Computer Science**  
   Indian Institute of Information Technology Nagpur (IIITN), Nagpur, Maharashtra, 2021
 
 ## Work Experience
@@ -24,23 +22,15 @@ Detail-oriented Machine Learning Developer with over 3 years of experience in de
 - Executing robust ETL processes and engineering scalable data pipelines using Azure Data Factory, Azure Databricks, and Synapse Analytics.
 - Developing and deploying advanced data visualization dashboards with PowerBI for real-time Key Performance Indicators (KPIs).
 - Leading the design and deployment of automated ML pipelines using MLFlow and Kubeflow.
+- Fine-tuning large language models (LLMs) for enhanced natural language understanding.
 
-#### Key Performance Indicators (KPIs)
+#### Key Values Delivered
 | KPI                          | Value      |
 |------------------------------|------------|
 | Model Operationalization Efficiency | 45% Improvement |
 | Data Retrieval Speed         | 30% Faster |
 | Deployment Time Reduction     | 60% Faster |
 
-## Core Competencies
-### Skills Overview
-
-- Machine Learning Development
-- Generative AI
-- Supervised & Unsupervised Learning
-- Model Deployment
-- Performance Optimization
-- Natural Language Processing (NLP)
 
 ## Technical Skills
 - **Languages:** Python, SQL
@@ -49,21 +39,11 @@ Detail-oriented Machine Learning Developer with over 3 years of experience in de
 ## Certifications
 - Microsoft Certified: Azure Data Scientist Associate
 - Microsoft Certified: Fabric Analytics Engineer Associate
+- Microsoft Certified: Azure AI Fundamentals
+- Microsoft Certified: Azure Fundamentals
 
-## Soft Skills
 
-| Skill              | Proficiency Level |
-|--------------------|-------------------|
-| Communication      | ![Gauge](https://via.placeholder.com/100x20/4CAF50/FFFFFF?text=80%) |
-| Problem-Solving    | ![Gauge](https://via.placeholder.com/100x20/FF9800/FFFFFF?text=70%) |
-| Adaptability        | ![Gauge](https://via.placeholder.com/100x20/2196F3/FFFFFF?text=75%) |
-| Determination       | ![Gauge](https://via.placeholder.com/100x20/9C27B0/FFFFFF?text=85%) |
-| Analytical          | ![Gauge](https://via.placeholder.com/100x20/F44336/FFFFFF?text=90%) |
 
-## Highlights
-- **Awards:**
-  - Star of the Month for exceptional contributions in the Locomotive Wheelspan Prediction project.
-  - Innovation Pride Award for winning an internal TCS hackathon.
 
 ## Internship Experience
 
@@ -91,6 +71,33 @@ Designed models for forecasting call volume with automated hyper-parameter tunin
 ### Performance Review Classification and Summarizing
 **Technologies Used:** Python, Flask  
 Utilized advanced NLP techniques to analyze user reviews employing transformer models for effective text summarization.
+
+## Core Competencies
+### Skills Overview
+- Machine Learning Development
+- AI & ML Frameworks
+- Generative AI
+- Supervised & Unsupervised Learning
+- Model Deployment
+- Performance Optimization
+- Natural Language Processing (NLP)
+
+## Soft Skills
+
+| Skill              | Proficiency Level |
+|--------------------|-------------------|
+| Communication      | ![Gauge](https://via.placeholder.com/100x20/4CAF50/FFFFFF?text=80%) |
+| Problem-Solving    | ![Gauge](https://via.placeholder.com/100x20/FF9800/FFFFFF?text=70%) |
+| Adaptability        | ![Gauge](https://via.placeholder.com/100x20/2196F3/FFFFFF?text=75%) |
+| Determination       | ![Gauge](https://via.placeholder.com/100x20/9C27B0/FFFFFF?text=85%) |
+| Analytical          | ![Gauge](https://via.placeholder.com/100x20/F44336/FFFFFF?text=90%) |
+
+
+## Highlights
+**Awards:**
+- Received the Star of the Month and Beyond Excellence Awards for exceptional contributions in the Locomotive Wheelspan Prediction project.
+- Awarded the Innovation Pride Award for securing first place in an internal TCS hackathon.
+
 
 ## Personal Details
 | Field             | Details          |
