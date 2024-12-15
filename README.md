@@ -100,12 +100,9 @@ Utilized advanced NLP techniques to analyze user reviews employing transformer m
 
 
 ## Personal Details
-| Field             | Details          |
-|-------------------|------------------|
-| **Address**       | Pune, India      |
-| **Date of Birth** | June 5, 1998     |
-| **Languages Known** | English, Hindi   |
-
+- **Address:** Pune, India
+- **Date of Birth:** June 5, 1998
+- **Languages Known:** English, Hindi
 ---
 
 This README provides an overview of my professional background and projects. For more details or collaboration inquiries, please feel free to reach out!
